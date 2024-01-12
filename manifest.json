@@ -1,0 +1,82 @@
+{
+  "name": "Ankit Kumar Jha",
+  "short_name": "AKJ portfolio",
+  "background_color": "#fff",
+  "theme_color": "#008037",
+  "orientation": "any",
+  "description": "I am a B.tech student at IES college of technology, with a passion for programming and a strong desire to create user-friendly and developer-friendly projects. I have experience in a variety of programming languages including Python, JavaScript, HTML, CSS, and PHP, as well as frameworks such as React and Laravel. I am also proficient in tools like Docker, VSCode, and Git. I have completed an internship as a full-stack web developer and SEO specialist, where I successfully built an ERP system using Laravel and optimized a website for search engines. I am highly motivated and proactive, with strong project management skills. In addition to programming, I have a keen interest in physics and math and enjoy teaching others, particularly in the areas of competitive programming and computer science.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "lang": "English",
+  "categories": [
+    "3D web developer",
+    "Programming",
+    "Trainer",
+    "Freelancer",
+    "Programmer",
+    "Web developer",
+    "ERP Solutions",
+    "Project management"
+  ],
+  "shortcuts": [
+    {
+      "name": "Ankit Kumar Jha",
+      "short_name": "AKJ",
+      "description": "A pationate programmer",
+      "url": "https://ankitjha2603.github.io",
+      "icons": [
+        {
+          "src": "assets/img/favicon/portfolio-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "/assets/img/favicon/portfolio-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "1.4"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "/assets/img/favicon/portfolio-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ],
+  "features": ["Cross Platform", "fast", "simple"],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
