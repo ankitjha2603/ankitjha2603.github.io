@@ -287,6 +287,25 @@ h6 {
   visibility: visible;
 }
 
+p.leetcode-210DayCodeChallenge {
+  font-weight: 500;
+  font-size: 1.1em !important;
+  margin-top: 0px !important;
+}
+
+p.leetcode-210DayCodeChallenge>a>.blue {
+  color: #09b3e4 !important;
+}
+
+p.leetcode-210DayCodeChallenge>a>.orange {
+  color: #f57d11 !important;
+  margin-left: -4px;
+}
+
+p.leetcode-210DayCodeChallenge>a:hover>* {
+  text-decoration: underline;
+}
+
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
