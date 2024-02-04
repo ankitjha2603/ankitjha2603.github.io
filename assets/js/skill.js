@@ -44,7 +44,7 @@ am5.ready(function () {
       idField: "name",
       linkWithField: "linkWith",
       manyBodyStrength: -10,
-      centerStrength: 0.25,
+      centerStrength: 0.125,
     })
   );
 
