@@ -16,6 +16,7 @@ Enthusiastic software engineer and web developer with hard work, attention to de
 
 [View Resume](https://ankitjha2603.github.io/resume)
 
+<!--
 ## Projects
 
 This portfolio features a collection of my projects, including:
@@ -27,6 +28,8 @@ This portfolio features a collection of my projects, including:
 - Snake Game: A progressive web app implementation of the classic Snake game.
 - Algorithm Visualizer: A web-based tool for visualizing algorithms.
 - Advance Web Scraper Amazon: Python-based web scraping solution for Amazon.
+
+-->
 
 For a complete list of my projects, please visit my [portfolio](https://ankitjha2603.github.io).
 
