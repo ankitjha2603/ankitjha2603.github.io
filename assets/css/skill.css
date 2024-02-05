@@ -1,12 +1,13 @@
 #chartdiv {
     width: 90vw;
-    height: 100%;
+    height: 100vh;
     margin-bottom: 80px;
     background-color: transparent;
     position: absolute;
     right: 0px;
-    top: 0px;
+    top: 100vh;
     margin-right: 10px;
+    z-index: 5;
 }
 
 @media only screen and (max-width: 767px) {

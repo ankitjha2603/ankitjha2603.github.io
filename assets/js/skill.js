@@ -7,16 +7,13 @@ am5.ready(function () {
     children: [
       {
         name: "Programming",
-        color: "#ff0000",
         children: [
           {
             name: "Code",
             value: 60,
-            color: "#ff0000",
           },
           {
             name: "Debug",
-            color: "#ff0000",
             value: 40,
           },
         ],
@@ -44,12 +41,12 @@ am5.ready(function () {
       idField: "name",
       linkWithField: "linkWith",
       manyBodyStrength: -10,
-      centerStrength: 0.125,
+      centerStrength: 0.2,
     })
   );
 
   series.get("colors").setAll({
-    step: 2,
+    step: 1,
   });
 
   series.links.template.set("strength", 0.9);
