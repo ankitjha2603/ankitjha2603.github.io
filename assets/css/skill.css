@@ -3,11 +3,21 @@
     height: 100vh;
     margin-bottom: 80px;
     background-color: transparent;
-    position: absolute;
+    position: fixed;
     right: 0px;
-    top: 100vh;
+    top: 0px;
     margin-right: 10px;
+    z-index: 1;
+}
+
+#hero,
+#portfolio,
+#services,
+#contact,
+#footer {
+    position: relative;
     z-index: 5;
+    background-color: white;
 }
 
 @media only screen and (max-width: 767px) {
